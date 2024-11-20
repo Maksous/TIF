@@ -16,7 +16,11 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
+<<<<<<< HEAD
   "associatedIndex": 4
+=======
+  "associatedIndex": 7
+>>>>>>> 1b066a65d430e97c622647983e89db07af6400f3
 }]]></component>
   <component name="ProjectId" id="2OQBOy87ybJVdQw8x1tkvQjQSY4" />
   <component name="ProjectViewState">
@@ -29,10 +33,22 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
+<<<<<<< HEAD
+=======
+    "last_opened_file_path": "C:/Users/s27850/TIF",
+>>>>>>> 1b066a65d430e97c622647983e89db07af6400f3
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+<<<<<<< HEAD
+=======
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\s27850\TIF" />
+    </key>
+  </component>
+>>>>>>> 1b066a65d430e97c622647983e89db07af6400f3
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -49,7 +65,11 @@
       <option name="presentableId" value="Default" />
       <updated>1681482898106</updated>
       <workItem from="1681482901223" duration="100000" />
+<<<<<<< HEAD
       <workItem from="1732097698216" duration="17000" />
+=======
+      <workItem from="1732097652777" duration="23000" />
+>>>>>>> 1b066a65d430e97c622647983e89db07af6400f3
     </task>
     <servers />
   </component>
