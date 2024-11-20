@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="961b064b-70af-42d8-ab07-baf3e6bc46d9" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/list.html" beforeDir="false" afterPath="$PROJECT_DIR$/list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,6 +15,13 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+<<<<<<< HEAD
+  "associatedIndex": 4
+=======
+  "associatedIndex": 7
+>>>>>>> 1b066a65d430e97c622647983e89db07af6400f3
+}]]></component>
   <component name="ProjectId" id="2OQBOy87ybJVdQw8x1tkvQjQSY4" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -25,9 +32,30 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+<<<<<<< HEAD
+=======
+    "last_opened_file_path": "C:/Users/s27850/TIF",
+>>>>>>> 1b066a65d430e97c622647983e89db07af6400f3
+    "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+<<<<<<< HEAD
+=======
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\s27850\TIF" />
+    </key>
+  </component>
+>>>>>>> 1b066a65d430e97c622647983e89db07af6400f3
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-7c0b70fcd90d-JavaScript-WS-242.21829.149" />
+      </set>
+    </attachedChunks>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -37,6 +65,11 @@
       <option name="presentableId" value="Default" />
       <updated>1681482898106</updated>
       <workItem from="1681482901223" duration="100000" />
+<<<<<<< HEAD
+      <workItem from="1732097698216" duration="17000" />
+=======
+      <workItem from="1732097652777" duration="23000" />
+>>>>>>> 1b066a65d430e97c622647983e89db07af6400f3
     </task>
     <servers />
   </component>
