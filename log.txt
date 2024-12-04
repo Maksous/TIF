@@ -1,0 +1,42 @@
+commit ac6910a0dcf0faa420b92a03b2e3eb6a93efd811
+Merge: cfc43db 99691c0
+Author: Amelia_Kaminska <s30722@pjwstk.edu.pl>
+Date:   Wed Nov 20 13:07:07 2024 +0100
+
+    Merge branch 'mojagalaz'
+
+commit 99691c023f6693f8114f5baf5a502c749b4f1024
+Author: Amelia_Kaminska <s30722@pjwstk.edu.pl>
+Date:   Wed Nov 20 13:04:56 2024 +0100
+
+    zadanie3
+
+ plik2.txt | 1 +
+ 1 file changed, 1 insertion(+)
+
+commit 989cf274479d1b972973ec2bdc66013f4037d034
+Author: Amelia_Kaminska <s30722@pjwstk.edu.pl>
+Date:   Wed Nov 20 12:59:34 2024 +0100
+
+    zadanie2
+
+ plik.txt | 1 +
+ 1 file changed, 1 insertion(+) 
+
+commit ee26170c772c8a6e5344be826f2502b781fde92f
+Author: Amelia_Kaminska <s30722@pjwstk.edu.pl>
+Date:   Wed Nov 20 12:55:25 2024 +0100
+
+    zadanie1
+
+ plik2.txt | 1
+ 1 file changed, 5 insertions(+), 0 deletions(-)
+
+commit cfc43db4d1078b1348eb423c7f32d83c704b5fb7
+Author: Amelia_Kaminska <s30722@pjwstk.edu.pl>
+Date:   Wed Nov 20 12:50:57 2024 +0100
+
+    zadanie
+
+ plik.txt | 1 +
+ 1 file changed, 1 insertion(+)
